@@ -52,7 +52,7 @@ export default class AuthController {
         userInfo: {
           user_id : user.id,
           user_name: user.user_name,
-          firstname: user.user_firstname,
+          user_firstname: user.user_firstname,
           user_email: user.user_email,
           
         },
